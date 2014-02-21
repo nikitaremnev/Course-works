@@ -1,0 +1,97 @@
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\bin\Debug\Визуализация.exe
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\bin\Debug\Визуализация.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.Properties.Resources.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.csproj.GenerateResource.Cache
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.exe
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.MainForm.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\bin\Debug\Библиотека классов.dll
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\bin\Debug\Библиотека классов.pdb
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.Graphiks.resources
+C:\Users\Никита\Documents\Visual Studio 2010\Homework\Программа оптимизации, инспирированная поведением лягушек\Визуализация\obj\x86\Debug\Визуализация.PopulationShow.resources
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.exe
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.pdb
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.Graphiks.resources
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.MainForm.resources
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.PopulationShow.resources
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.Properties.Resources.resources
+C:\Users\Никита\Desktop\B-version\Визуализация\obj\x86\Debug\Визуализация.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\Визуализация.exe
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\Визуализация.pdb
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\ZedGraph.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\Библиотека классов.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\Библиотека классов.pdb
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\ZedGraph.xml
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Никита\Desktop\B-version\Визуализация\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.exe
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.pdb
+E:\Курсовая\Программа\Визуализация\bin\Debug\Визуализация.exe
+E:\Курсовая\Программа\Визуализация\bin\Debug\Визуализация.pdb
+E:\Курсовая\Программа\Визуализация\bin\Debug\Библиотека классов.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\Библиотека классов.pdb
+E:\Курсовая\Программа\Визуализация\bin\Debug\ZedGraph.xml
+E:\Курсовая\Программа\Визуализация\bin\Debug\de\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\es\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\fr\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\hu\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\it\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\ja\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\pt\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\ru\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\sk\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\sv\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\tr\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.csprojResolveAssemblyReference.cache
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.Graphiks.resources
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.MainForm.resources
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.PopulationShow.resources
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.Properties.Resources.resources
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.csproj.GenerateResource.Cache
+E:\Курсовая\Программа\Визуализация\bin\Debug\Chart3DLib.dll
+E:\Курсовая\Программа\Визуализация\bin\Debug\Chart3DLib.pdb
+E:\Курсовая\Программа\Визуализация\obj\x86\Debug\Визуализация.FunctionGraph.resources
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.exe
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.pdb
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\Визуализация.exe
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\Визуализация.pdb
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\Chart3DLib.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\Библиотека классов.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\Библиотека классов.pdb
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\Chart3DLib.pdb
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\ZedGraph.xml
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\de\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\es\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\fr\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\hu\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\it\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\ja\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\pt\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\ru\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\sk\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\sv\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\tr\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.csprojResolveAssemblyReference.cache
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.FunctionGraph.resources
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.Graphiks.resources
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.MainForm.resources
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.PopulationShow.resources
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.Properties.Resources.resources
+E:\Курсовая\Курсовая, 1 курс\Программа\Визуализация\obj\x86\Debug\Визуализация.csproj.GenerateResource.Cache

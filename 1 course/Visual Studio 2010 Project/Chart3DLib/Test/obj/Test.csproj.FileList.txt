@@ -1,0 +1,10 @@
+bin\Debug\Test.exe
+bin\Debug\Test.pdb
+bin\Debug\Chart3DLib.dll
+bin\Debug\Chart3DLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Test.Form1.resources
+obj\Debug\Test.Properties.Resources.resources
+obj\Debug\Test.csproj.GenerateResource.Cache
+obj\Debug\Test.exe
+obj\Debug\Test.pdb
