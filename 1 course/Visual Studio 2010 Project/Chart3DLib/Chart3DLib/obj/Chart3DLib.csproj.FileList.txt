@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Chart3DLib.Chart3D.resources
+obj\Debug\Chart3DLib.csproj.GenerateResource.Cache
+bin\Debug\Chart3DLib.dll
+bin\Debug\Chart3DLib.pdb
+obj\Debug\Chart3DLib.dll
+obj\Debug\Chart3DLib.pdb
